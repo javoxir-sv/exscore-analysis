@@ -29,8 +29,8 @@ Use Python with `pip` and Jupyter installed or available through the project dep
 1. Clone the repository and enter the project directory:
 
    ```bash
-   git clone https://github.com/javoxir-sv/exscore-dataset-analysis.git
-   cd exscore-dataset-analysis
+   git clone https://github.com/javoxir-sv/exscore-analysis.git
+   cd exscore-analysis
    ```
 
 2. Create and activate a virtual environment:
